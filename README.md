@@ -64,5 +64,30 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Hostinger is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://www.hostinger.com/
+Hostinger is a global web hosting provider offering shared hosting, cloud VPS, domain registration, and a suite of developer tools including an API, CLI, SDKs, and AI-driven services. It serves millions of customers worldwide, providing a control panel (hPanel) for managing websites, email, databases, and cloud resources, with 24/7 support and a 30‑day money‑back guarantee.
+
+**Areas:** Company · Hosting · Cloud · Domains · API
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.hostinger.com/)
+- [Documentation](https://docs.hostinger.com/)
+- [Getting started](https://docs.hostinger.com/getting-started/overview)
+- [API reference](https://docs.hostinger.com/api-reference/endpoints.md)
+- [Pricing](https://www.hostinger.com/pricing)
+- [Support](https://www.hostinger.com/contact)
+- [Changelog](https://www.hostinger.com/changelog)
+- [Blog](https://www.hostinger.com/blog/)
+- [Security](https://www.hostinger.com/legal/responsible-disclosure-policy)
+- [Compliance](https://trust.hostinger.com/)
+- [Privacy policy](https://www.hostinger.com/legal/privacy-policy)
+- [GitHub](https://github.com/hostinger)
+- [Status](https://statuspage.hostinger.com/)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/hostinger/](https://apis.io/providers/hostinger/).
